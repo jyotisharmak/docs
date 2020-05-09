@@ -1,0 +1,16 @@
+#########################################################################################################################
+
+when  python module is not available, you can download it online like below
+you should install NLTK 3.0, downloadable for free from http://nltk.org/. Follow the instructions there to download the version required for your platform.
+
+Once you've installed NLTK, start up the Python interpreter as before, and install the data required for the book by typing the 
+following two commands at the Python prompt, then selecting the book collection as shown
+
+import nltk
+nltk.download('punkt')
+
+Nltk book is here: http://www.nltk.org/book/
+
+
+
+###########################################################################################################################
